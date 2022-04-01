@@ -8220,12 +8220,6 @@ article pre[class*='language-'] {
 .sidebar.portfolio-sidebar .sticky-top {
   top: 6rem; }
 
-@font-face {
-  font-family: 'Socicon';
-  src: url("../fonts/Socicon.eot");
-  src: url("../fonts/Socicon.eot") format("embedded-opentype"), url("../fonts/Socicon.woff2") format("woff2"), url("../fonts/Socicon.ttf") format("truetype"), url("../fonts/Socicon.woff") format("woff"), url("../fonts/Socicon.svg") format("svg");
-  font-weight: normal;
-  font-style: normal; }
 
 [class^="socicon-"], [class*=" socicon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
